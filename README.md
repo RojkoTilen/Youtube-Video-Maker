@@ -1,5 +1,5 @@
 # YOUTUBE VIDEO MAKER
-### Aplikacija, ki omogoča samodejno kreacijo videov za poljubno število youtube kanalov ter poljubno število naloženih videov, hkrati pa omogoča tudi dinamično določanje barvnega razreda same prikazne slike za youtube video.
+### Aplikacija, ki omogoča samodejno kreacijo videov za poljubno število youtube kanalov ter poljubno število naloženih videov, hkrati pa omogoča dinamično določanje barvne korekcije (ang. color grading) prikazne slike youtube videa.
 
 Iz poljubno določenega direktorija se dinamično preberejo vse mape, nato pa program iz posameznih map razbere posamezne datoteke, ki so potrebne za ustvarjanje videa ter nalaganje na portal Youtube. Samo ime slike predstavlja ime Youtube videa. Po stvaritvi videa se videi samodejno naložijo na Youtube preko Youtube API-ja. V prihodnje sledi še implementacija nalaganja za poljubno število kanalov na podlagi map v starševskem direktoriju, ter implementacija funkcije za pridobivanje in krajšanje povezav do spletne strani za nakup skladbe, ki smo jo implementirali v sklopu Youtube Single Channel Uploader-ja.
 
